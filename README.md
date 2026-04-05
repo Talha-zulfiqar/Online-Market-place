@@ -44,10 +44,5 @@ Quick usage example
 3. From main menu choose "Admin Login" (use an admin account in `admins.txt` or add one by editing the file) and add a product, e.g. `1 Apple 0.99 10`.
 4. Log in as the user and choose "Buy Products". Enter the product id (1) and quantity (2). The program will print a small bill and update `products.txt` quantity.
 
-Suggestions for improvements
-- Use a proper structured data format (JSON) or a lightweight database instead of free-form text files.
-- Hash passwords (bcrypt/scrypt) and avoid storing payment info.
-- Add input validation and error handling for malformed files or missing files.
-- Add automated tests for core ProductManager and UserManager logic.
 
-If you'd like, I can: tidy up the data files into a small sample dataset, add a CONTRIBUTING section, or convert the file format to JSON for safer parsing. Tell me which you'd prefer.
+
