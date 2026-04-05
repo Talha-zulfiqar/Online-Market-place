@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+
+# Build outputs
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.lib
+*.ilk
+*.pdb
+*.ipdb
+
+# Visual Studio cache
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# OneDrive cache
+~$*
+
+# Other
+Online Market Pl ace.vcxproj.user
